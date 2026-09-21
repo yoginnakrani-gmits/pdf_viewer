@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Attention Is All You Need (2.2 MB)",
+    "pdf_url": "https://arxiv.org/pdf/1706.03762"
+  },
+  {
+    "id": 2,
+    "name": "IRS Form 1040 (220 KB)",
+    "pdf_url": "https://www.irs.gov/pub/irs-pdf/f1040.pdf"
+  },
+  {
+    "id": 3,
+    "name": "Sample Local PDF (50 KB)",
+    "pdf_url": "https://ontheline.trincoll.edu/images/bookdown/sample-local-pdf.pdf"
+  },
+  {
+    "id": 4,
+    "name": "PDFObject Sample (19 KB)",
+    "pdf_url": "https://pdfobject.com/pdf/sample.pdf"
+  }
+]
